@@ -52,6 +52,22 @@
 3. Compile and run the BaseConverter.java file
 4. Use the GUI to input a number and select base conversions
 
+## 📂 Project Structure
+```css
+BaseConverter/
+├── src/
+│   └── project
+|       └── Base1.java
+├── binary.jpg  (screenshot of the app interface)
+└── LICENSE
+└── README.md
+```
+
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
+
+## 🙋‍♂️ Author
+Tanvir Mahamood <br>
+CSE Undergraduate <br>
+RUET, Bangladesh
 
